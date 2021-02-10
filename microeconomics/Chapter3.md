@@ -23,14 +23,8 @@
 
 * **比较优势** (comparative advantage) :在生产产品X时，哪个生产者放弃的其他商品越少，该生产者生产产品X的机会成本越小，我们就说他在产品X的生产上具有比较优势。  
 * 尽管一个生产者可能在两种(所有)产品的生产上都具有**绝对优势**（例如本例中的牧场主），但任何生产者都不可能在这两种(所有)产品的生产上都具有**比较优势**。
->假设有A和B两样产品,有X和Y两个人，X生产一单位的A的机会成本是$X_b$个B产品，Y生产一单位的A的机会成本是$Y_b$个B产品,因此X和Y生产一单位的B产品分别为$\frac{1}{X_b}$和$\frac{1}{Y_b}$。  
-若某生产者在两种产品上都具有**比较优势**，此处假设为X，则要满足下列不等式组，显然无法成立。
->$$
->\begin{cases}
->X_b < Y_b \\
->\frac{1}{X_b} < \frac{1}{Y_b} \\
->\end{cases}
->$$
+>&emsp;&emsp;假设有A和B两样产品，有P和Q两个人，P生产一单位的A的机会成本是<img src="https://render.githubusercontent.com/render/math?math=P_b">个B产品，Q生产一单位的A的机会成本是<img src="https://render.githubusercontent.com/render/math?math=Q_b">个B产品,因此P和Q生产一单位的B产品的机会成本分别为<img src="https://render.githubusercontent.com/render/math?math=\frac{1}{P_b}">和<img src="https://render.githubusercontent.com/render/math?math=\frac{1}{Q_b}">。  若某生产者在两种产品上都具有**比较优势**，此处假设他为P，则要满足下列不等式组，显然无法成立。  
+><img src="https://render.githubusercontent.com/render/math?math=\begin{cases} P_b < Q_b \\ \frac{1}{P_b} < \frac{1}{Q_b} \\ \end{cases}">
 
 ### 3.2.3 比较优势和交易 ###
 * 专业化和交易的好处不是源于绝对优势而是源于比较优势。
