@@ -6,7 +6,7 @@
 | ------------- |:-------------:  | :-------: |
 |    第一章：经济学十大原理    |    :heavy_check_mark:          | :green_book:       |
 |    第二章：像经济学家那样思考    |    :heavy_check_mark:          | :green_book:       |
-|    第三章：相互依赖性和贸易的好处   |    :alarm_clock:          | :closed_book:       |
+|    第三章：相互依赖性和贸易的好处   |   :heavy_check_mark: | :green_book:       |
 |    第四章：供给和需求的市场力量    |    :alarm_clock:          | :closed_book:       |
 |    第五章：弹性及其应用    |    :alarm_clock:          | :closed_book:       |
 |    第六章：供给、需求和政府政策    |    :alarm_clock:          | :closed_book:       |
