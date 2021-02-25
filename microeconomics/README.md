@@ -10,8 +10,8 @@
 |    第四章：供给和需求的市场力量    |    :heavy_check_mark:          | :green_book:       |
 |    第五章：弹性及其应用    |    :heavy_check_mark:          | :green_book: |       |
 |    第六章：供给、需求和政府政策    |    :heavy_check_mark:          | :green_book:       |
-|    第七章：消费者、生产者和市场效率    |    :alarm_clock:          | :closed_book:       |
-|    第八章：应用：征税的代价|    :alarm_clock:          | :closed_book:       |
+|    第七章：消费者、生产者和市场效率    |    :heavy_check_mark:          | :green_book:       |
+|    第八章：应用：征税的代价|    :heavy_check_mark:          | :green_book:       |
 |    第九章：应用：国际贸易  |    :alarm_clock:          | :closed_book:       |
 |    第十章：外部性|    :alarm_clock:          | :closed_book:       |
 |    第十一章：公共物品和公共资源|    :alarm_clock:          | :closed_book:       |
